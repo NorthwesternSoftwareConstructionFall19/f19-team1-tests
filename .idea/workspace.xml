@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0913df30-76a3-49d3-b730-6fc8bd7873b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/5/5.1/dummy so i can commit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/input1" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/input2" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/input3" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/input4" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/input5" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/output1" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/output2" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/output3" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/output4" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.1/output5" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.2/dummy so i can commit.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="input4" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5/5.1/input4">
+      <file leaf-file-name="input5" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5/5.1/input5">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="135" column="96" lean-forward="true" selection-start-line="135" selection-start-column="96" selection-end-line="135" selection-end-column="96" />
+            <state relative-caret-position="132">
+              <caret line="127" column="27" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output5" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5/5.1/output5">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="82" lean-forward="true" selection-start-column="82" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -42,10 +62,10 @@
         <option value="$PROJECT_DIR$/3/3.1/output2" />
         <option value="$PROJECT_DIR$/5/5.1/input1" />
         <option value="$PROJECT_DIR$/5/5.1/output1" />
-        <option value="$PROJECT_DIR$/5/5.1/output2" />
         <option value="$PROJECT_DIR$/5/5.1/input2" />
-        <option value="$PROJECT_DIR$/5/5.1/output3" />
+        <option value="$PROJECT_DIR$/5/5.1/output2" />
         <option value="$PROJECT_DIR$/5/5.1/input3" />
+        <option value="$PROJECT_DIR$/5/5.1/output3" />
         <option value="$PROJECT_DIR$/5/5.1/output4" />
         <option value="$PROJECT_DIR$/5/5.1/input4" />
         <option value="$PROJECT_DIR$/5/5.1/input5" />
@@ -55,7 +75,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="618" />
-    <option name="width" value="1310" />
+    <option name="width" value="1311" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -63,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,12 +94,6 @@
               <item name="team1-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="team1-tests" type="462c0819:PsiDirectoryNode" />
               <item name="4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team1-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team1-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="4.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="team1-tests" type="b2602c69:ProjectViewProjectNode" />
@@ -97,11 +110,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3/3.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -140,7 +154,6 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15846995" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
@@ -149,17 +162,32 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5/5.1/input4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="82" selection-start-line="122" selection-start-column="82" selection-end-line="122" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="82" lean-forward="true" selection-start-line="122" selection-start-column="82" selection-end-line="122" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3/3.1/input1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1564">
@@ -244,29 +272,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/output1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/output2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="60" selection-start-column="60" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3/3.1/input1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="92" column="98" selection-start-line="92" selection-start-column="98" selection-end-line="92" selection-end-column="98" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4/4.1/output1">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/4/4.1/input1">
       <provider selected="true" editor-type-id="text-editor">
@@ -280,34 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/output3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" selection-start-column="58" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="130" column="49" lean-forward="true" selection-start-line="130" selection-start-column="49" selection-end-line="130" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4/4.1/input5">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -315,31 +298,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/output1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="82" lean-forward="true" selection-start-column="82" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/output2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="82" lean-forward="true" selection-start-column="82" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/output3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/output4">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="82" selection-start-column="82" selection-end-column="82" />
+          <caret column="82" lean-forward="true" selection-start-column="82" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="116" column="100" selection-start-line="116" selection-start-column="100" selection-end-line="116" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="119" column="6" lean-forward="true" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="127" column="27" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/output5">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="66" lean-forward="true" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="135" column="96" lean-forward="true" selection-start-line="135" selection-start-column="96" selection-end-line="135" selection-end-column="96" />
+          <caret column="82" lean-forward="true" selection-start-column="82" selection-end-column="82" />
         </state>
       </provider>
     </entry>

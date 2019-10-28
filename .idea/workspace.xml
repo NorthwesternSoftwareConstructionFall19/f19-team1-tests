@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0913df30-76a3-49d3-b730-6fc8bd7873b5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/input1" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/input2" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/input3" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/input4" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/input5" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/input5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/output1" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/output2" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5/5.1/output3" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/output4" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.1/output5" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.1/output5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.2/dummy so i can commit.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +17,8 @@
       <file leaf-file-name="input3" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5/5.1/input3">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3094">
-              <caret line="182" column="98" selection-start-line="182" selection-start-column="98" selection-end-line="182" selection-end-column="98" />
+            <state relative-caret-position="523">
+              <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -37,16 +27,7 @@
         <entry file="file://$PROJECT_DIR$/5/5.1/output3">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="output5" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5/5.1/output5">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="106" selection-start-column="106" selection-end-column="106" />
+              <caret column="57" lean-forward="true" selection-start-column="57" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -77,8 +58,8 @@
         <option value="$PROJECT_DIR$/5/5.1/input3" />
         <option value="$PROJECT_DIR$/5/5.1/input4" />
         <option value="$PROJECT_DIR$/5/5.1/input5" />
-        <option value="$PROJECT_DIR$/5/5.1/output3" />
         <option value="$PROJECT_DIR$/5/5.1/output5" />
+        <option value="$PROJECT_DIR$/5/5.1/output3" />
       </list>
     </option>
   </component>
@@ -183,6 +164,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5/5.1/input3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="2" lean-forward="true" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/output3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/input4">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2074">
@@ -349,13 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.1/input3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3094">
-          <caret line="182" column="98" selection-start-line="182" selection-start-column="98" selection-end-line="182" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/output5">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -370,10 +358,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.1/input3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/output3">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+          <caret column="57" lean-forward="true" selection-start-column="57" selection-end-column="57" />
         </state>
       </provider>
     </entry>

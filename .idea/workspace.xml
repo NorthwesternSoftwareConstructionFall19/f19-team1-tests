@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0913df30-76a3-49d3-b730-6fc8bd7873b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/5/5.2/output5" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.2/output5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/5.2/output1" beforeDir="false" afterPath="$PROJECT_DIR$/5/5.2/output1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="output5" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5/5.2/output5">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="output1" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5/5.2/output1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,6 @@
         <option value="$PROJECT_DIR$/5/5.1/output5" />
         <option value="$PROJECT_DIR$/5/5.1/output3" />
         <option value="$PROJECT_DIR$/5/5.2/input1" />
-        <option value="$PROJECT_DIR$/5/5.2/output1" />
         <option value="$PROJECT_DIR$/5/5.2/output2" />
         <option value="$PROJECT_DIR$/5/5.2/input3" />
         <option value="$PROJECT_DIR$/5/5.2/output3" />
@@ -59,6 +58,7 @@
         <option value="$PROJECT_DIR$/5/5.2/output4" />
         <option value="$PROJECT_DIR$/5/5.2/input5" />
         <option value="$PROJECT_DIR$/5/5.2/output5" />
+        <option value="$PROJECT_DIR$/5/5.2/output1" />
       </list>
     </option>
   </component>
@@ -72,6 +72,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,6 +163,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5/5.2/output5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.1/input3">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -413,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5/5.2/output1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5/5.2/output2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -452,6 +452,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/5.2/output1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
